@@ -85,6 +85,7 @@ namespace Homework_3._2
             {
                 Console.WriteLine($"Ваши очки - {totalSum}");
             }
+            Console.WriteLine("New log in Git/check");
             Console.ReadKey();  
         }
     }
